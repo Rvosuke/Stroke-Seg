@@ -1,0 +1,8 @@
+datset:shufa
+out_stride:8
+lr:0.04
+lr_scheduler:poly
+loss_type:bce
+epoch:400
+base_size:400
+crop_size:400
