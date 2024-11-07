@@ -1,6 +1,6 @@
 # Stroke-Seg: A Deep Learning-based Framework for Chinese Stroke Segmentation 🖌️
 
-[![Paper Status](https://img.shields.io/badge/Paper-Under_Review-yellow)](https://ietresearch.onlinelibrary.wiley.com/journal/17519667)
+[![Paper Status](https://img.shields.io/badge/Paper-Published-brightgreen)](https://ietresearch.onlinelibrary.wiley.com/journal/17519667)
 [![GitHub stars](https://img.shields.io/github/stars/Rvosuke/Stroke-Seg.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Rvosuke/Stroke-Seg/stargazers/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
@@ -29,12 +29,10 @@ Our framework demonstrates excellent generalization ability and compatibility wi
 If you find our work useful in your research, please consider citing:
 
 ```bibtex
-@article{bai2024strokeseg,
-  title={Stroke-Seg: A Deep Learning-based Framework for Chinese Stroke Segmentation},
-  author={Bai, Zeyang and Gong, Xinyu and Nie, Haitao and Xie, Bin},
-  journal={IET Image Processing},
-  year={2024},
-  publisher={IET},
-  note={Under Review}
+@article{gong2024strokeseg,
+author = {Gong, Xinyu and Bai, Zeyang and Nie, Haitao and Xie, Bin},
+title = {Stroke-Seg: A deep learning-based framework for chinese stroke segmentation},
+journal = {IET Image Processing},
+doi = {https://doi.org/10.1049/ipr2.13255},
 }
 ```
