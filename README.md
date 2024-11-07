@@ -6,7 +6,7 @@
 
 ## 📝 About
 
-Stroke-Seg is a novel framework designed to improve the stroke segmentation of Chinese characters by tackling complex stroke characteristics. This repository contains the implementation of our method, which is currently under review at IET Image Processing.
+Stroke-Seg is a novel framework designed to improve the stroke segmentation of Chinese characters by tackling complex stroke characteristics. This repository contains the implementation of our method, which is currently published at IET Image Processing.
 
 ![Stroke Segmentation Example](stroke_seg.jpg)
 
